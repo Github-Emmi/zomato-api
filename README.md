@@ -192,19 +192,6 @@ Zomato Project/
 └── 📝 .gitignore                             # Python/Git ignore patterns
 ```
 
-### 3.2.1 Project Completion Status
-
-| Component | Status | Notes |
-|-----------|--------|-------|
-| **Phase 1-11 (ML Model)** | ✅ COMPLETE | Random Forest with F1=0.7421, all answer cells filled |
-| **EDA Visualizations** | ✅ COMPLETE | 18 charts generated (rating, cost, cuisines, sentiment, clustering) |
-| **Feature Engineering** | ✅ COMPLETE | TF-IDF vectorization, scaling, categorical encoding |
-| **ML Training & Tuning** | ✅ COMPLETE | GridSearchCV tuning, best model saved (.pkl files) |
-| **FastAPI Application** | ✅ COMPLETE | 3 endpoints: /health, /predict, /predict/batch |
-| **Docker Image** | ✅ COMPLETE | Built & tested locally on port 8000 |
-| **Deployment Guide** | ✅ COMPLETE | DEPLOYMENT_GUIDE.md with Phase 1-5 instructions |
-| **Local Testing** | ✅ VERIFIED | Health check ✓, Prediction ✓, API docs ✓ |
-| **Next: Git & Render** | ⏳ PENDING | Push to GitHub → Deploy to Render |
 
 ### 3.3 Jupyter Kernel Setup
 ```python
@@ -937,5 +924,6 @@ accuracy_score(y_test, model.predict(X_test))
 
 **Document Version**: 1.0  
 **Last Updated**: March 9, 2026  
-**Author**: Professional ML Engineer  
+**Author**: Aghason Eammanuel Ibeabuchi (ML Engineer)
+**Email**: aghason.emmanuel@gmail.com
 **Project**: Zomato Restaurant Analysis - Hyderabad (Gachibowli)
