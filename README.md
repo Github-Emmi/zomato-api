@@ -1,6 +1,10 @@
 # Zomato ML Project Architecture
 ## Step-by-Step Implementation Guide
 
+**Live Link**: https://zomato-sentiment-api.onrender.com/
+**API Documentation**: https://zomato-sentiment-api.onrender.com/docs
+
+
 ---
 
 ## 📋 Table of Contents
@@ -921,6 +925,17 @@ accuracy_score(y_test, model.predict(X_test))
 ```
 
 ---
+
+**Zomato ML Model is now**:
+
+✅ Trained (F1-Score: 0.7421)
+✅ Packaged (FastAPI + Docker)
+✅ Deployed (Render live) https://zomato-sentiment-api.onrender.com/
+✅ Documented (DEPLOYMENT_GUIDE.md)
+✅ Ready for production use 🎉
+
+---
+
 
 **Document Version**: 1.0  
 **Last Updated**: March 9, 2026  
